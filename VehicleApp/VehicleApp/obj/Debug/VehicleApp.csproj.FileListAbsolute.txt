@@ -1,0 +1,9 @@
+F:\BASIS Class\310114\VehicleApp\VehicleApp\bin\Debug\VehicleApp.exe.config
+F:\BASIS Class\310114\VehicleApp\VehicleApp\bin\Debug\VehicleApp.exe
+F:\BASIS Class\310114\VehicleApp\VehicleApp\bin\Debug\VehicleApp.pdb
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.csprojResolveAssemblyReference.cache
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.VehicleUI.resources
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.Properties.Resources.resources
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.csproj.GenerateResource.Cache
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.exe
+F:\BASIS Class\310114\VehicleApp\VehicleApp\obj\Debug\VehicleApp.pdb
